@@ -1,7 +1,6 @@
 {
   "name": "webpack-demo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "set NODE_ENV=development&&webpack serve",
@@ -33,5 +32,14 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazarisabbot/flex_box_project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nazarisabbot/flex_box_project/issues"
+  },
+  "homepage": "https://github.com/nazarisabbot/flex_box_project#readme",
+  "description": ""
 }
